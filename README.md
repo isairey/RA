@@ -29,5 +29,5 @@ Permite visualizar objetos 3D o contenido digital sobre el entorno real usando l
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/ra-html.git
-cd ra-html
+git clone https://github.com/isairey/RA.git
+cd RA
